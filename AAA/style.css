@@ -1,0 +1,30 @@
+body {
+    font-family: Arial;
+    background: #eeeeee;
+    text-align: center;
+    padding: 30px;
+}
+
+.box {
+    background: white;
+    padding: 25px;
+    max-width: 700px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+img {
+    width: 300px;
+    max-height: 400px;
+    object-fit: cover;
+}
+
+a {
+    display: inline-block;
+    margin: 10px;
+    padding: 10px 15px;
+    background: #222;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
